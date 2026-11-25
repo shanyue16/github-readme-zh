@@ -4,6 +4,11 @@
 
 整个项目只有一个文件：`github-readme-zh.user.js`，无需构建、无第三方依赖。
 
+## 相关链接
+
+- GitHub 仓库：<https://github.com/shanyue16/github-readme-zh>
+- 脚本猫脚本主页：<https://scriptcat.org/zh-CN/script-show-page/9256>
+
 ## 功能特性
 
 - 自动识别多种中文 README 命名，大小写不敏感：`README_ZH.md`、`README_zh.md`、`README_zh-CN.md`、`README.zh-CN.md`、`README_zh_CN.md`、`README_CN.md`、`README_zh-Hans.md` 等。
